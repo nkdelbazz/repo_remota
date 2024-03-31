@@ -1,1 +1,3 @@
 remote file resettato
+inserisci il tuo nome : 
+inserisci il tuo cognome : 
