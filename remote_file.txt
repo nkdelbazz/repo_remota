@@ -1,3 +1,2 @@
 remote file resettato
-inserisci il tuo nome : 
-inserisci il tuo cognome : 
+inserisci solo da data di nascita :
