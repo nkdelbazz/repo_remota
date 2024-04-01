@@ -1,2 +1,3 @@
 remote file resettato
 inserisci solo da data di nascita :
+file di master
