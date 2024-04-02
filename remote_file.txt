@@ -1,4 +1,4 @@
-remote file resettato
+remote file resettato XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 inserisci solo da data di nascita :
 file di master
 file di b2

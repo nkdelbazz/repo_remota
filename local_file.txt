@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+dsadsadadsda
+=======
 fdsfsdfsdfdfdfdsfsdfdsfd
 fddsfsd
+>>>>>>> master
