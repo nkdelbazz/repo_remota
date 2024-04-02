@@ -1,8 +1,5 @@
 remote file resettato
 inserisci solo da data di nascita :
-<<<<<<< HEAD
 file di master
-=======
 file di b2
 file di b2 secondo file
->>>>>>> b2
